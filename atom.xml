@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cotdr2046.github.io</id>
+    <title>COTDR&apos;s Homepage</title>
+    <updated>2020-04-06T08:41:42.885Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cotdr2046.github.io"/>
+    <link rel="self" href="https://cotdr2046.github.io/atom.xml"/>
+    <subtitle>光联万物，智引未来</subtitle>
+    <logo>https://cotdr2046.github.io/images/avatar.png</logo>
+    <icon>https://cotdr2046.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, COTDR&apos;s Homepage</rights>
+</feed>
